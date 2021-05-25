@@ -1,6 +1,10 @@
 # memo
 
-## hello 
+## 明日の講義
 
-沖縄
-那覇沖縄県
+・プログラミングベイシック
+
+
+## 使う教科書
+・Google Apps Script
+・JavaSeript モダンプログラミング
